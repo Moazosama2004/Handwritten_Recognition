@@ -1,7 +1,11 @@
 # Handwritten Recognition 
-> **1.Decision Tree**
+```
+> **1. Decision Tree**
 
-> **Simple Neural Network**
+> **2. Simple Neural Network**
 
-> **CNN**
+> **3. CNN**
+
+> **4. Genetic Algorithm** 
+```
 
