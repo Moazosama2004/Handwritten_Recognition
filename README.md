@@ -1,2 +1,5 @@
-# Handwritten_Recognition1
-Handwritten Recognition
+# Handwritten Recognition 
+> Decision Tree
+> Simple Neural Network
+> CNN
+
