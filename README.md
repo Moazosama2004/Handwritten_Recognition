@@ -10,5 +10,7 @@
 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg)
 ---
-mdasd
+int main () {
+cout << ;
+}
 ---
