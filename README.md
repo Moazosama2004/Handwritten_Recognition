@@ -1,5 +1,7 @@
 # Handwritten Recognition 
-> Decision Tree \n
+> Decision Tree
+
 > Simple Neural Network
+
 > CNN
 
