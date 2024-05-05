@@ -8,4 +8,4 @@
 
 >> **4. Genetic Algorithm** 
 
-[mo](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://cldup.com/dTxpPi9lDf.thumb.png)
