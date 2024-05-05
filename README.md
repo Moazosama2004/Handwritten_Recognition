@@ -1,5 +1,5 @@
 # Handwritten Recognition 
-
+![](https://img.shields.io/github/tag/pandao/editor.md.svg)
 > **1. Decision Tree**
 
 > **2. Simple Neural Network**
@@ -8,14 +8,4 @@
 
 >> **4. Genetic Algorithm** 
 
-![](https://img.shields.io/github/tag/pandao/editor.md.svg)
-    
-int main () {
-cout << ;
-}
-    
-```
-    int main () {
-    cout <<;
-    }
-```
+
