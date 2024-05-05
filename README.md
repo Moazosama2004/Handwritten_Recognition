@@ -9,8 +9,8 @@
 >> **4. Genetic Algorithm** 
 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg)
----
+    
 int main () {
 cout << ;
 }
----
+    
