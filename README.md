@@ -8,4 +8,4 @@
 
 >> **4. Genetic Algorithm** 
 
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://img.shields.io/github/tag/pandao/editor.md.svg)
