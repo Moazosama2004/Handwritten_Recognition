@@ -1,7 +1,7 @@
 # Handwritten Recognition 
-> Decision Tree
+> **1.Decision Tree**
 
-> Simple Neural Network
+> **Simple Neural Network**
 
-> CNN
+> **CNN**
 
