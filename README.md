@@ -6,6 +6,6 @@
 
 > **3. CNN**
 
->> **4. Genetic Algorithm** 
+> **4. Genetic Algorithm** 
 
 
