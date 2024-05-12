@@ -13,7 +13,9 @@ The project architecture consists of several interconnected components:
 **Feature Extraction Module**: Extracts relevant features from handwritten character images using image processing techniques.
 Fitness Calculation Module: Computes the fitness or similarity between two character images based on their extracted features.
 **Genetic Algorithm Module**: Implements genetic algorithms to evolve and optimize a population of candidate solutions (characters) towards better fitness scores.
+
 ![WhatsApp Image 2024-05-12 at 3 29 26 PM](https://github.com/Moazosama2004/Handwritten_Recognition/assets/102158567/7a86c2c2-e1b0-4617-a1d1-82678d0335dc)
+
 **Main Execution Module**: Orchestrates the interaction between the GUI, feature extraction, fitness calculation, and genetic algorithm modules to recognize handwritten characters.
 
 ## Components
