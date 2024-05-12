@@ -1,14 +1,12 @@
-# Handwritten Recognition 
-![](https://img.shields.io/github/tag/pandao/editor.md.svg)
-
 # Handwritten Character Recognition Project Documentation (Demo)
+![](https://img.shields.io/github/tag/pandao/editor.md.svg)
 ## Introduction
 This document provides comprehensive documentation for a sophisticated handwritten character recognition project. The system employs advanced techniques in image processing and genetic algorithms to accurately identify handwritten characters. This documentation outlines the project's purpose, architecture, key components, and usage instructions.
 
 ## Purpose
 The primary goal of this project is to develop an efficient and accurate system for recognizing handwritten characters. By combining image processing techniques with genetic algorithms, the system aims to achieve high levels of accuracy and robustness in character recognition tasks. This project serves as a demonstration of cutting-edge techniques in pattern recognition and machine learning.
 
-Architecture Overview
+## Architecture Overview
 The project architecture consists of several interconnected components:
 
 **Graphical User Interface (GUI)**: Provides a user-friendly interface for drawing characters and interacting with the system.
@@ -35,10 +33,10 @@ The genetic algorithm module implements genetic algorithms to evolve a populatio
 This module serves as the entry point for the system's execution. It coordinates the interaction between the GUI, feature extraction, fitness calculation, and genetic algorithm modules to recognize handwritten characters effectively.
 
 ## Usage Instructions
-1.Launch the Graphical User Interface (GUI) application.
-2.Use the canvas to draw the character you wish to recognize.
-3.Press the "Take Screen" button to capture the drawn image.
-4.The system will process the image, determine the handwritten character using genetic algorithms, and display the result.
+1. Launch the Graphical User Interface (GUI) application.
+2. Use the canvas to draw the character you wish to recognize.
+3. Press the "Take Screen" button to capture the drawn image.
+4. The system will process the image, determine the handwritten character using genetic algorithms, and display the result.
 
 ## Conclusion
 The handwritten character recognition project represents a significant advancement in pattern recognition and machine learning. By leveraging image processing techniques and genetic algorithms, the system achieves remarkable accuracy in recognizing handwritten characters. This documentation provides a comprehensive overview of the project's architecture, components, and usage, facilitating a deeper understanding of its inner workings and capabilities.
