@@ -36,10 +36,12 @@ This module serves as the entry point for the system's execution. It coordinates
 
 ## Usage Instructions
 1. Launch the Graphical User Interface (GUI) application.
-2. ![image](https://github.com/Moazosama2004/Handwritten_Recognition/assets/102158567/d4005e0a-1dd7-4737-bf6e-9ef9e0fbaba7)
-3. Use the canvas to draw the character you wish to recognize.
-4. Press the "Take Screen" button to capture the drawn image.
-5. The system will process the image, determine the handwritten character using genetic algorithms, and display the result.
+   
+![image](https://github.com/Moazosama2004/Handwritten_Recognition/assets/102158567/d4005e0a-1dd7-4737-bf6e-9ef9e0fbaba7)
+  
+2. Use the canvas to draw the character you wish to recognize.
+3. Press the "Take Screen" button to capture the drawn image.
+4. The system will process the image, determine the handwritten character using genetic algorithms, and display the result.
 
 ## Conclusion
 The handwritten character recognition project represents a significant advancement in pattern recognition and machine learning. By leveraging image processing techniques and genetic algorithms, the system achieves remarkable accuracy in recognizing handwritten characters. This documentation provides a comprehensive overview of the project's architecture, components, and usage, facilitating a deeper understanding of its inner workings and capabilities.
